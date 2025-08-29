@@ -6,7 +6,6 @@ I'm **Thepepper17**, a passionate developer who enjoys creating innovative solut
 
 I am a developer based on GitHub, currently exploring various technologies and contributing to open-source projects. Although I am just starting my journey, I am eager to learn and grow in the tech community!
 
-c
 <div ali
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />

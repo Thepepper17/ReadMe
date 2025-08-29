@@ -58,6 +58,14 @@ I am a developer based on GitHub, currently exploring various technologies and c
 ###
 
 
+###
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/wQZ5oUfImrEAAAAi/van-khanh.gif"  />
+</div>
+
+###
+
 ## ASCII Art
 
 ```

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👂 My name is RJ AMBRAD POGI<br>👩 Pronouns: HE/HIM<br>🔭 I’m currently working on my personal projects<br>🌱 I’m currently learning vue, docker, typescript, laravel<br>🤝 I’m looking to collaborate on web applications<br>❤️ I love to study quite a bit</p>
+<p align="left">👂 My name is RJ<br>👩 Pronouns: HE/HIM<br>🔭 I’m currently working on my personal projects<br>🌱 I’m currently learning vue, docker, typescript, laravel<br>🤝 I’m looking to collaborate on web applications<br>❤️ I love to study quite a bit</p>
 
 ###
 

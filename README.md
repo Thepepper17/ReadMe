@@ -8,6 +8,7 @@ I am a developer based on GitHub, currently exploring various technologies and c
 
 ## Skills & Technologies
 
+<div ali
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -32,13 +33,29 @@ I am a developer based on GitHub, currently exploring various technologies and c
 
 ###
 
+<img src="https://raw.githubusercontent.com/Thepepper17/Thepepper17/output/snake.svg" alt="Snake animation" />
 
-## GitHub Stats
+###
 
-📊 **Public Repositories:** 1  
-👥 **Followers:** 1  
-👤 **Following:** 1  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thepepper17&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Rja.ambrad">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Rja.ambrad&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 
 ## ASCII Art

@@ -6,8 +6,7 @@ I'm **Thepepper17**, a passionate developer who enjoys creating innovative solut
 
 I am a developer based on GitHub, currently exploring various technologies and contributing to open-source projects. Although I am just starting my journey, I am eager to learn and grow in the tech community!
 
-## Skills & Technologies
-
+c
 <div ali
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
@@ -36,6 +35,8 @@ I am a developer based on GitHub, currently exploring various technologies and c
 <img src="https://raw.githubusercontent.com/Thepepper17/Thepepper17/snake.svg" alt="Snake animation" />
 
 ###
+
+## Social Media
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="55" alt="linkedin logo"  />

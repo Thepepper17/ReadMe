@@ -33,7 +33,7 @@ I am a developer based on GitHub, currently exploring various technologies and c
 
 ###
 
-<img src="https://raw.githubusercontent.com/Thepepper17/Thepepper17/public/asset/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Thepepper17/Thepepper17/snake.svg" alt="Snake animation" />
 
 ###
 

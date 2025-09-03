@@ -40,7 +40,7 @@ I am a developer based on GitHub, currently exploring various technologies and c
 ###
 
 ## Social Media
-t
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="55" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="55" alt="twitter logo"  />
@@ -49,14 +49,6 @@ t
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="55" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="55" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="55" alt="instagram logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Rja.ambrad">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Rja.ambrad&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###

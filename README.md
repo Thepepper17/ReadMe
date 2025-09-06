@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Thepepper17**, a passionate developer who enjoys creating innovative solutions and diving into the world of programming. Let's connect and explore the endless possibilities of technology together!
+I'm **Thepepper21**, a passionate developer who enjoys creating innovative solutions and diving into the world of programming. Let's connect and explore the endless possibilities of technology together!
 
 ## About Me
 
@@ -35,7 +35,7 @@ I am a developer based on GitHub, currently exploring various technologies and c
 
 ###
 
-<img src="https://raw.githubusercontent.com/Thepepper17/Thepepper17/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Thepepper21/Thepepper21/snake.svg" alt="Snake animation" />
 
 ###
 
